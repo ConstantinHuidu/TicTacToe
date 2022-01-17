@@ -1,0 +1,13 @@
+#grid {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+}
+
+.cells {
+  border-color: black;
+  border: 2px solid;
+  font-size: 60px;
+  text-align: center;
+}
+
